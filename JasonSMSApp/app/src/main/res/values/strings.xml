@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">JasonSMSApp</string>
+    <string name="service_name">JasonSMSAppService</string>
+</resources>
